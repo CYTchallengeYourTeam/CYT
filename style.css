@@ -22,7 +22,7 @@ h1 {
 }
 
 .imgRight{
-	position: absolute;
+	position: relative;
 	float: right;
 	margin-top: -130px;
 }
