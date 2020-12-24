@@ -34,13 +34,13 @@ button {
 	border-radius: 10px;
 	font-size: 120%;
 	width: 12%;
-	background-color: yellow;
+	background: linear-gradient(50deg, #F7FE2E, #81DAF5);
 	color: black;
 	tansition-duration: 0.4s;
 }
 
 button:hover {
-	background-color: darkblue;
+	background: linear-gradient(00087D, #00437D, #63A9E6);
 	color: yellow;
 }
 
