@@ -36,6 +36,12 @@ button {
 	width: 12%;
 	background: linear-gradient(50deg, #F7FE2E, #81DAF5);
 	color: black;
+	tansition-duration: 0.4s;
+}
+
+button:hover {
+	background-color: darkblue;
+	color: yellow;
 }
 	
 
