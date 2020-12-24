@@ -40,7 +40,7 @@ button {
 }
 
 button:hover {
-	background: linear-gradient(00087D, #00437D, #63A9E6);
+	background: linear-gradient(50deg, #00437D, #63A9E6);
 	color: yellow;
 }
 
