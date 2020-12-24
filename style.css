@@ -43,6 +43,10 @@ button:hover {
 	background: linear-gradient(00008B, #000000, #FFFFFF);
 	color: yellow;
 }
+
+#nav .selected {
+	font-weight: bold;
+}
 	
 
 
