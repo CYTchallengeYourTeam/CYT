@@ -34,6 +34,18 @@ h2 {
 	margin-top: -130px;
 }
 
+.founderKevin {
+	position: relative;
+	float: left;
+	margin-top: -230px;
+}
+
+.founderAlex {
+	position: relative;
+	float: right;
+	margin-top: -230px;
+}
+
 button {
 	margin: 5px;
 	padding: 5px;
