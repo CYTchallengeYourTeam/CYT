@@ -10,8 +10,15 @@ h1 {
 	color: #F7FE2E;
 	font-size: 400%;
     float: center;
+
 	
-	
+}
+
+h2 {
+	color: #CC0000;
+	font-size: 200%;
+    float: left;
+		
 }
 
 .imgLeft{
